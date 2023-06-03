@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1.csproj", "{D092736E-B1F1-460E-ABE7-CC0A9104C01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationLibrary", "..\SerializationLibrary\SerializationLibrary.csproj", "{5554500E-54FC-40A7-B9F3-D88525896C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D092736E-B1F1-460E-ABE7-CC0A9104C01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D092736E-B1F1-460E-ABE7-CC0A9104C01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D092736E-B1F1-460E-ABE7-CC0A9104C01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D092736E-B1F1-460E-ABE7-CC0A9104C01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5554500E-54FC-40A7-B9F3-D88525896C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5554500E-54FC-40A7-B9F3-D88525896C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5554500E-54FC-40A7-B9F3-D88525896C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5554500E-54FC-40A7-B9F3-D88525896C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3249F5A-F6AA-48D3-9AFC-231E8D915F0E}
+	EndGlobalSection
+EndGlobal
